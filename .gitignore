@@ -16,6 +16,9 @@
 *.ear
 *.zip
 *.tar.gz
+.idea/
+vimeo-cookie.iml
+target/
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
